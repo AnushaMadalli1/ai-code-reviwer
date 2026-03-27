@@ -1,0 +1,7 @@
+flask
+google-generativeai
+reportlab
+requests
+better-sqlite3
+pdfkit
+axios
